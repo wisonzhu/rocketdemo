@@ -1,0 +1,11 @@
+/Users/wisonzhu/GolandProjects/rust/rocketdemo/target/debug/deps/httparse-e150f7c2e4eafbee.rmeta: /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wisonzhu/GolandProjects/rust/rocketdemo/target/debug/deps/libhttparse-e150f7c2e4eafbee.rlib: /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wisonzhu/GolandProjects/rust/rocketdemo/target/debug/deps/httparse-e150f7c2e4eafbee.d: /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs /Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/lib.rs:
+/Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/iter.rs:
+/Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/macros.rs:
+/Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/mod.rs:
+/Users/wisonzhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.8.0/src/simd/fallback.rs:
